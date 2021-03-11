@@ -2,11 +2,7 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
-/*
-	Visualize by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 /* Reset */
 
@@ -1410,7 +1406,7 @@
 
 	body {
 		background-color: #000;
-		background-image: url("../../images/bgmine.jpg");
+		background-image: url("../../images/other/bgmine.jpg");
 		background-size: cover;
 		background-position: top center;
 	}
@@ -1472,7 +1468,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5 {
 		color: #ffffff;
 		font-weight: 200;
 		line-height: 1.5;
@@ -1539,7 +1535,12 @@
 	}
 
 	h6 {
-		font-size: 0.7em;
+		font-size: 1.1em;
+		text-align: left;
+		margin-left: 1em;
+		line-height: 1.8em;
+		
+		
 	}
 
 	sub {
