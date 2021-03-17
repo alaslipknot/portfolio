@@ -1543,6 +1543,8 @@
 		
 	}
 
+
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -2329,7 +2331,7 @@
 		button.special,
 		.button.special {
 			background-color: #FF6382;
-			color: !important;
+			color: important;
 		}
 
 			input[type="submit"].special:hover,
